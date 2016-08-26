@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello!
+I am a CS student at the University of Texas at Austin.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kmd@cs.utexas.edu](mailto:kmd@cs.utexas.edu)
